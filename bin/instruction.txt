@@ -1,0 +1,9 @@
+
+macos:
+
+dart compile exe bin/format.dart -o bin/format
+
+
+windows:
+
+dart compile exe bin/format.dart -o bin/format.exe
